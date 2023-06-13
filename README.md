@@ -22,6 +22,8 @@
 
 之前在公众号发表个人技术文章，后在京东内部“神灯”技术社区写稿，其中推送到外网的有：
 
+[手把手教你实战TDD](https://developer.jdcloud.com/article/2990?mid=30)
+
 [手把手教你落地 DDD | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9428733)
 
 [手把手教你用代码画架构图 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/8774268)
