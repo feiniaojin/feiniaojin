@@ -16,6 +16,11 @@
 
 公众号：MarkWord
 
+## 著作
+
+[悟道DDD（Thinking in DDD）](https://github.com/feiniaojin/Thinking-in-DDD)
+>在线电子书。领域驱动设计悟道之作，力求用最通俗易懂的语言向读者介绍领域驱动设计，不仅仅是概念的讲解，而是真正的项目实战。
+
 ## 技术博客
 
 之前在公众号发表个人技术文章，后在京东内部“神灯”技术社区写稿，其中推送到外网的有：
@@ -31,8 +36,6 @@
 [一分钟学会、三分钟上手、五分钟应用，快速上手责任链框架详解 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/8707474)
 
 ## 开源项目
-
-[悟道DDD（Thinking in DDD）](https://github.com/feiniaojin/Thinking-in-DDD)
 
 [Graceful Response](https://github.com/feiniaojin/graceful-response)
 
