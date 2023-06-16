@@ -18,8 +18,15 @@
 
 ## 著作
 
-[悟道DDD（Thinking in DDD）](https://github.com/feiniaojin/Thinking-in-DDD)
+- 悟道DDD（Thinking in DDD）
+
 >在线电子书。领域驱动设计悟道之作，力求用最通俗易懂的语言向读者介绍领域驱动设计，不仅仅是概念的讲解，而是真正的项目实战。
+
+GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
+
+在线阅读：http://ddd.feiniaojin.com/
+
+![](https://s3.cn-north-1.jdcloud-oss.com/shendengbucket1/2023-05-25-11-28nVq0QzwtN28CZ5rw.png)
 
 ## 技术博客
 
