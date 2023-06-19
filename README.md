@@ -32,7 +32,7 @@ GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
 
 之前在公众号发表个人技术文章，后在京东内部“神灯”技术社区写稿，其中推送到外网的有：
 
-[手把手教你实战TDD](https://developer.jdcloud.com/article/2990?mid=30)
+[手把手教你实战 TDD | 京东云技术团队](https://my.oschina.net/u/4090830/blog/10082614)
 
 [手把手教你落地 DDD | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9428733)
 
