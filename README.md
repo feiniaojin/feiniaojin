@@ -40,7 +40,7 @@ GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
 
 [手把手教你用代码画架构图 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/8774268)
 
-[一站式统一返回值封装、异常处理、异常错误码解决方案 — 最强的 Sping Boot 接口优雅响应处理器 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/8724862)
+[一站式统一返回值封装、异常处理、异常错误码解决方案 — 最强的 Spring Boot 接口优雅响应处理器 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/8724862)
 
 [一分钟学会、三分钟上手、五分钟应用，快速上手责任链框架详解 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/8707474)
 
