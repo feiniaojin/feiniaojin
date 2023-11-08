@@ -17,7 +17,9 @@
 公众号：MarkWord
 
 微信二维码：
-<a href="https://imgse.com/i/pi1voz4"><img src="https://z1.ax1x.com/2023/11/09/pi1voz4.jpg" width="50%" height="50%" alt="pi1voz4.jpg" border="0" /></a>
+
+<div><img src="https://z1.ax1x.com/2023/11/09/pi1voz4.jpg" width="50%" height="50%" alt="pi1voz4.jpg" border="0" /></div>
+
 ## 著作
 
 - 悟道领域驱动设计（Thinking in Domain Driven Design）
