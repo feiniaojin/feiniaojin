@@ -16,6 +16,8 @@
 
 公众号：MarkWord
 
+微信二维码：
+![微信二维码](qr.jpg)
 ## 著作
 
 - 悟道领域驱动设计（Thinking in Domain Driven Design）
@@ -51,5 +53,9 @@ GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
 [ddd-archetype](https://github.com/feiniaojin/ddd-archetype)
 
 [ddd-example-cms](https://github.com/feiniaojin/ddd-example-cms)
+
+[ddd-live](https://github.com/feiniaojin/ddd-live)
+
+[ddd-aigc](https://github.com/feiniaojin/ddd-aigc)
 
 
