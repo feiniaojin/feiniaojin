@@ -18,7 +18,7 @@
 
 微信二维码：
 
-<div><img src="https://z1.ax1x.com/2023/11/09/pi1voz4.jpg" width="50%" height="50%" alt="pi1voz4.jpg" border="0" /></div>
+<div><img src="https://gingoimg.oss-cn-beijing.aliyuncs.com/ddd/qr.jpg" width="50%" height="50%" alt="pi1rmB6.jpg" border="0"/></div>
 
 ## 著作
 
