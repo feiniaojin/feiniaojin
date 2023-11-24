@@ -6,7 +6,13 @@
 
 爱打王者荣耀，常玩的位置是打野、中单、射手，擅长的英雄有貂蝉、不知火舞、小乔、李白、澜、赵云、孙尚香、马可波罗等，欢迎带我上分。
 
-打游戏累了的时候就会写点东西，目前正在写的书有《悟道领域驱动设计（Thinking in Domain Driven Design）》。
+打游戏累了的时候就会写点东西，目前正在写的书有《悟道领域驱动设计（Thinking in Domain Driven Design）》，希望能用通俗易懂的语言向读者介绍领域驱动设计，不仅仅是概念的堆砌，而是真正的可复制项目实战经验。
+
+GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
+
+在线阅读：https://ddd.feiniaojin.com/
+
+![](https://s1.ax1x.com/2023/06/16/pCQu1pV.png)
 
 ## 联系方式
 
@@ -20,17 +26,7 @@
 
 <div><img src="https://gingoimg.oss-cn-beijing.aliyuncs.com/ddd/qr.jpg" width="50%" height="50%" alt="pi1rmB6.jpg" border="0"/></div>
 
-## 著作
 
-- 悟道领域驱动设计（Thinking in Domain Driven Design）
-
->在线电子书。领域驱动设计悟道之作，力求用最通俗易懂的语言向读者介绍领域驱动设计，不仅仅是概念的堆砌，而是真正的可复制项目实战。
-
-GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
-
-在线阅读：http://ddd.feiniaojin.com/
-
-![](https://s1.ax1x.com/2023/06/16/pCQu1pV.png)
 
 ## 技术博客
 
