@@ -10,7 +10,7 @@
 
 ## 联系方式
 
-微信：qyj000100，加好友时请标注“GitHub”
+微信：qinyujieup，加好友时请标注“GitHub”
 
 邮箱：943868899@qq.com
 
