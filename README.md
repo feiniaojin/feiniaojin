@@ -6,7 +6,10 @@
 
 喜欢玩王者荣耀，常玩的位置是打野、中单、射手，擅长的英雄有貂蝉、不知火舞、小乔、李白、澜、赵云、孙尚香、马可波罗等，欢迎来带我上分。
 
-工作之余会尝试写一些技术文章，目前出版有《悟道领域驱动设计（Thinking in Domain Driven Design）》，京东链接：https://item.jd.com/10122557627993.html
+工作之余会尝试写一些技术文章，目前出版有《悟道领域驱动设计（Thinking in Domain Driven Design）》，京东链接：https://item.jd.com/14835288.html
+
+<div><img src="ddd.png" width="50%" height="50%" alt="pi1rmB6.jpg" border="0"/></div>
+
 
 ## 联系方式
 
