@@ -6,10 +6,9 @@
 
 喜欢玩王者荣耀，常玩的位置是打野、中单、射手，擅长的英雄有貂蝉、不知火舞、小乔、李白、澜、赵云、孙尚香、马可波罗等，欢迎来带我上分。
 
-工作之余会尝试写一些技术文章，目前出版有《悟道领域驱动设计（Thinking in Domain Driven Design）》，京东链接：https://item.jd.com/14835288.html
+出版作品有《悟道领域驱动设计》，京东链接：https://item.jd.com/14835288.html
 
 <div><img src="ddd.png" width="50%" height="50%" alt="pi1rmB6.jpg" border="0"/></div>
-
 
 ## 联系方式
 
@@ -19,9 +18,13 @@
 
 公众号：悟道领域驱动设计
 
-微信二维码：
+个人微信二维码：
 
-<div><img src="https://gingoimg.oss-cn-beijing.aliyuncs.com/ddd/qr.jpg" width="50%" height="50%" alt="pi1rmB6.jpg" border="0"/></div>
+<div><img src="https://gingoimg.oss-cn-beijing.aliyuncs.com/ddd/qr.jpg" width="50%" height="50%" alt="qr.jpg" border="0"/></div>
+
+微信公众号二维码：
+
+<div><img src="gzh-qr.jpg" width="50%" height="50%" alt="gzh-qr.jpg" border="0"/></div>
 
 ## 著作
 
@@ -30,6 +33,8 @@
 GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
 
 在线阅读：https://ddd.feiniaojin.com/
+
+京东链接：https://item.jd.com/14835288.html
 
 ![](https://s1.ax1x.com/2023/06/16/pCQu1pV.png)
 
@@ -55,10 +60,10 @@ GitHub地址：https://github.com/feiniaojin/Thinking-in-DDD
 
 [ddd-archetype](https://github.com/feiniaojin/ddd-archetype)
 
-[ddd-example-cms](https://github.com/feiniaojin/ddd-example-cms)
+[ddd-hcms](https://github.com/feiniaojin/ddd-hcms)
 
 [ddd-live](https://github.com/feiniaojin/ddd-live)
 
 [ddd-aigc](https://github.com/feiniaojin/ddd-aigc)
 
-
+[ddd-example-cms](https://github.com/feiniaojin/ddd-example-cms)
